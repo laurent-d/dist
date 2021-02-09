@@ -131,8 +131,6 @@
  * http://jquery.org/license
  */
 
-/*! @sentry/tracing & @sentry/browser 6.1.0 (245d11f) | https://github.com/getsentry/sentry-javascript */
-
 /**
  * Fetches, parses, and transforms CSS custom properties from specified
  * <style> and <link> elements into static values, then appends a new <style>
