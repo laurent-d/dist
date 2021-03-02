@@ -65,15 +65,6 @@
  */
 
 /*!
- * jQuery UI :data 1.12.1
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- */
-
-/*!
  * jQuery UI Core 1.11.4
  * http://jqueryui.com
  *
@@ -94,24 +85,6 @@
  */
 
 /*!
- * jQuery UI Disable Selection 1.12.1
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- */
-
-/*!
- * jQuery UI Draggable 1.12.1
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- */
-
-/*!
  * jQuery UI Keycode 1.12.1
  * http://jqueryui.com
  *
@@ -122,24 +95,6 @@
 
 /*!
  * jQuery UI Mouse 1.12.1
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- */
-
-/*!
- * jQuery UI Resizable 1.12.1
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- */
-
-/*!
- * jQuery UI Scroll Parent 1.12.1
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
